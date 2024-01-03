@@ -1,0 +1,64 @@
+.para 
+{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.para p
+{
+  color: rgb(250, 245, 245);
+}
+.para1
+{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.para1 p
+{
+  color: rgb(243, 230, 230);
+}
+.para2
+{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.para2 p
+{
+  color: rgb(236, 233, 233);
+}
+.para3
+{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.para3 p
+{
+  color: rgb(230, 220, 220);
+}
+.para4
+{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.para4 p
+{
+  color: rgb(247, 237, 237);
+}
+.para5
+{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.para5 p
+{
+  color: rgb(245, 235, 235);
+}
+.p-2
+{
+  color: antiquewhite;
+}
+
+.Home_back{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("C:\Users\asus\Desktop\project\muthu\myproject\src\Assets\th.jpeg");
+}

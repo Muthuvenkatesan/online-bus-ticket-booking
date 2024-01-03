@@ -1,0 +1,40 @@
+.logini{
+    background-image: url(https://www.allrideapps.com/wp-content/uploads/2020/07/fc5b11fb-b135-4537-96ae-c3872b2164cb.jpeg);
+    background-repeat: no-repeat;
+     background-size: 85%;
+    margin-bottom: 5%; 
+  }
+  
+
+  
+  h1{
+    color: rgb(240, 252, 100);
+  }
+  
+    
+ 
+  form{
+    text-align: center;
+  }
+  
+  
+  box{
+    position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color:rgb(171, 249, 164); 
+      padding: 10px;
+      border-radius: 8px;
+      margin-top: 10%;
+    }
+  .imt{
+       border-radius: 5px;
+  }
+    
+  
+  
+    button{
+      position:static;
+    
+    }
